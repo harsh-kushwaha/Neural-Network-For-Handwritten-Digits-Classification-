@@ -1,1 +1,2 @@
 # Neural-Network-For-Handwritten-Digits-Classification-
+I build a neural network that helps in classification of digits ranging from 0 to 9. We provided 28*28 pixel images which was a handwritten digit and in result we got a number. I got accuracy of 92.6% . I also scaled the data as the data in the array was ranging from 0 to 255 , and that would have reduced the accuracy of the model. I also used SOFTMAX Activation function in neural network and used cross entropy as loss function rather using sum of squared error as loss function.
